@@ -1,0 +1,15 @@
+{
+  "name": "Algorithms",
+  "version": "1.0.0",
+  "description": "Algorithm tasks",
+  "main": "task1.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paweł Kapusta",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.2.1",
+    "typescript": "^4.2.4"
+  }
+}
